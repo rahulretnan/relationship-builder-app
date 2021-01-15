@@ -11,9 +11,13 @@ An App that show the degree of relation between two person
 ## Getting started
 
 `$ git clone https://github.com/rahulagnii/relationship-builder-app.git`
+
 `$ cd client`
+
 `$ npm install`
+
 `$ cd ../server`
+
 `$ npm install`
 
 ## Run Server
