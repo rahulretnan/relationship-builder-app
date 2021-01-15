@@ -5,7 +5,8 @@ An App that show the degree of relation between two person
 
 - The Server side of the app is made using Express and the Client side is done in React.
 - Server is hosted in Heroku and the Client side is hosted in Netlify.
-- Database used is MongoDB Atlas
+- Database used is MongoDB Atlas.
+- For UI/UX Ant Design.
 
 
 ## Getting started
