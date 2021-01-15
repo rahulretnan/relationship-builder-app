@@ -1,0 +1,38 @@
+* {
+  font-family: "Kaushan Script", cursive;
+}
+body {
+  padding: 30px 100px;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  color:#dc0015;
+  text-align: center;
+}
+.box {
+  border: solid 2px #ffffff;
+  padding: 100px;
+  border-radius: 15px;
+}
+.box:hover {
+  background-color: #dc0015;
+}
+.box:hover h2 {
+  color: #ffffff;
+}
+h2{
+  text-align: center;
+}
+.layout{
+  background: #ffffff;
+}
+
+tbody{
+  background-color: #dadada;
+}
+
+#tag{
+  width: 60%;
+  border: solid 1px #dadada;
+  margin-left: 10px;
+}
