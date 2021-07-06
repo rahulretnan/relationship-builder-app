@@ -8,6 +8,9 @@ An App that show the degree of relation between two person
 - Database used is MongoDB Atlas.
 - For UI/UX Ant Design is used.
 
+## Demo
+
+https://relationship-builder.netlify.app
 
 ## Getting started
 
